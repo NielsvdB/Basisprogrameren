@@ -1,0 +1,4 @@
+﻿  Opdracht12.c
+C:\Users\Navan\source\repos\HuiswerkW3\Week3Opdracht12\Opdracht12.c(24,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Navan\source\repos\HuiswerkW3\Week3Opdracht12\Opdracht12.c(33,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Week3Opdracht12.vcxproj -> C:\Users\Navan\source\repos\HuiswerkW3\x64\Debug\Week3Opdracht12.exe

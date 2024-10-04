@@ -1,0 +1,3 @@
+﻿  Opdracht1.c
+C:\Users\Navan\source\repos\HuiswerkWeek4\Week4Opdracht1\Opdracht1.c(5,27): error C2017: illegal escape sequence
+C:\Users\Navan\source\repos\HuiswerkWeek4\Week4Opdracht1\Opdracht1.c(5,28): error C2143: syntax error: missing ';' before 'constant'

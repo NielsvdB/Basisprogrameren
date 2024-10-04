@@ -1,0 +1,5 @@
+﻿  Opdracht8.c
+C:\Users\Navan\source\repos\HuiswerkW3\Week3Opdracht8\Opdracht8.c(8,2): warning C4098: 'printgeld': 'void' function returning a value
+C:\Users\Navan\source\repos\HuiswerkW3\Week3Opdracht8\Opdracht8.c(22,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Navan\source\repos\HuiswerkW3\Week3Opdracht8\Opdracht8.c(13,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Week3Opdracht8.vcxproj -> C:\Users\Navan\source\repos\HuiswerkW3\x64\Debug\Week3Opdracht8.exe

@@ -1,0 +1,4 @@
+﻿  Opdracht4.c
+C:\Users\Navan\source\repos\HuiswerkWeek4\Week4Opdracht4\Opdracht4.c(9,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Navan\source\repos\HuiswerkWeek4\Week4Opdracht4\Opdracht4.c(13,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Week4Opdracht4.vcxproj -> C:\Users\Navan\source\repos\HuiswerkWeek4\HuiswerkWeek4\x64\Debug\Week4Opdracht4.exe

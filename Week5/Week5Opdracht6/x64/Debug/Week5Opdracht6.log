@@ -1,0 +1,4 @@
+﻿  Opdracht6.c
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht6\Opdracht6.c(10,10): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[10]'
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht6\Opdracht6.c(10,10): warning C4024: 'sorteer': different types for formal and actual parameter 1
+  Week5Opdracht6.vcxproj -> C:\Users\Navan\source\repos\Basisprogrameren\Week5\x64\Debug\Week5Opdracht6.exe

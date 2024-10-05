@@ -1,0 +1,4 @@
+﻿  Opdracht5.c
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht5\Opdracht5.c(11,20): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[10]'
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht5\Opdracht5.c(11,20): warning C4024: 'maximum': different types for formal and actual parameter 1
+  Week5Opdracht5.vcxproj -> C:\Users\Navan\source\repos\Basisprogrameren\Week5\x64\Debug\Week5Opdracht5.exe

@@ -1,0 +1,8 @@
+﻿  Opdracht3.c
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,11): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[10]'
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,11): warning C4024: 'optellen': different types for formal and actual parameter 1
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,15): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[10]'
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,15): warning C4024: 'optellen': different types for formal and actual parameter 2
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[10]'
+C:\Users\Navan\source\repos\Basisprogrameren\Week5\Week5Opdracht3\Opdracht3.c(22,19): warning C4024: 'optellen': different types for formal and actual parameter 3
+  Week5Opdracht3.vcxproj -> C:\Users\Navan\source\repos\Basisprogrameren\Week5\x64\Debug\Week5Opdracht3.exe

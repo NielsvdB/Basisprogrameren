@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\grotereProgramma\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C103D5C2-8508-42D4-9B4F-E3D494B28662}|kalenderPrinten\\kalenderPrinten.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\grotereProgramma\\kalenderPrinten\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C103D5C2-8508-42D4-9B4F-E3D494B28662}|kalenderPrinten\\kalenderPrinten.vcxproj|solutionrelative:kalenderPrinten\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\grotereProgramma\\kalenderPrinten\\main.c",
-              "RelativeDocumentMoniker": "kalenderPrinten\\main.c",
-              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\grotereProgramma\\kalenderPrinten\\main.c",
-              "RelativeToolTip": "kalenderPrinten\\main.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-10T09:48:46.308Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3D46B-2B6A-4055-B305-5355565FE062}|Opdracht6\\Opdracht6.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E3D46B-2B6A-4055-B305-5355565FE062}|Opdracht6\\Opdracht6.vcxproj|solutionrelative:Opdracht6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AD26F-D51E-4F17-AAE2-63588131B27A}|Opdracht5\\Opdracht5.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{240AD26F-D51E-4F17-AAE2-63588131B27A}|Opdracht5\\Opdracht5.vcxproj|solutionrelative:Opdracht5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht6\\main.c",
+              "RelativeDocumentMoniker": "Opdracht6\\main.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht6\\main.c",
+              "RelativeToolTip": "Opdracht6\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-15T13:07:32.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht5\\main.c",
+              "RelativeDocumentMoniker": "Opdracht5\\main.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\voorbeeldAssesment\\Opdracht5\\main.c",
+              "RelativeToolTip": "Opdracht5\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-15T13:00:29.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

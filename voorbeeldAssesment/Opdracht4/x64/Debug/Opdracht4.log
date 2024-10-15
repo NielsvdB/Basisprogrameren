@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Navan\source\repos\Basisprogrameren\voorbeeldAssesment\Opdracht4\main.c(6,30): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\Navan\source\repos\Basisprogrameren\voorbeeldAssesment\Opdracht4\main.c(6,30): warning C4024: 'berekenGemiddelde': different types for formal and actual parameter 1
+  Opdracht4.vcxproj -> C:\Users\Navan\source\repos\Basisprogrameren\voorbeeldAssesment\x64\Debug\Opdracht4.exe

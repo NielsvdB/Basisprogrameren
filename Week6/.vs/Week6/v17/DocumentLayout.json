@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE62347-1DEE-49FD-889D-AB6E9362A342}|Week6Opdracht2\\Week6Opdracht2.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht2\\Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BE62347-1DEE-49FD-889D-AB6E9362A342}|Week6Opdracht2\\Week6Opdracht2.vcxproj|solutionrelative:Week6Opdracht2\\Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0DCEC246-8656-49F7-87ED-A0B94F9691AA}|Week6Opdracht8\\Week6Opdracht8.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht8\\Opdracht8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DCEC246-8656-49F7-87ED-A0B94F9691AA}|Week6Opdracht8\\Week6Opdracht8.vcxproj|solutionrelative:Week6Opdracht8\\Opdracht8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C0C96-CCBF-4954-9DC1-6CE6DDB7D3DB}|Enumvraag\\Enumvraag.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Enumvraag\\Enumvraag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE2C0C96-CCBF-4954-9DC1-6CE6DDB7D3DB}|Enumvraag\\Enumvraag.vcxproj|solutionrelative:Enumvraag\\Enumvraag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61575E03-9F3E-4CD1-BF4D-CF739438A86A}|Week6Opdracht7\\Week6Opdracht7.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht7\\Opdracht7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61575E03-9F3E-4CD1-BF4D-CF739438A86A}|Week6Opdracht7\\Week6Opdracht7.vcxproj|solutionrelative:Week6Opdracht7\\Opdracht7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C7F151-A985-4AF8-8376-E76CD9F398CC}|UitlegLeo\\UitlegLeo.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\UitlegLeo\\\u00DAitleg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45C7F151-A985-4AF8-8376-E76CD9F398CC}|UitlegLeo\\UitlegLeo.vcxproj|solutionrelative:UitlegLeo\\\u00DAitleg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F99CFA-A0E8-44C0-A846-CF026EA25F4D}|Week6Opdracht1\\Week6Opdracht1.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht1\\Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38F99CFA-A0E8-44C0-A846-CF026EA25F4D}|Week6Opdracht1\\Week6Opdracht1.vcxproj|solutionrelative:Week6Opdracht1\\Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE2C0C96-CCBF-4954-9DC1-6CE6DDB7D3DB}|Enumvraag\\Enumvraag.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Enumvraag\\Enumvraag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CE2C0C96-CCBF-4954-9DC1-6CE6DDB7D3DB}|Enumvraag\\Enumvraag.vcxproj|solutionrelative:Enumvraag\\Enumvraag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0157F3FD-E490-44C4-9ECE-E4F484E1FCBF}|Week6Opdracht4\\Week6Opdracht4.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht4\\Opdracht4\u00265\u00266.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0157F3FD-E490-44C4-9ECE-E4F484E1FCBF}|Week6Opdracht4\\Week6Opdracht4.vcxproj|solutionrelative:Week6Opdracht4\\Opdracht4\u00265\u00266.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opdracht8.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht8\\Opdracht8.c",
+              "RelativeDocumentMoniker": "Week6Opdracht8\\Opdracht8.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht8\\Opdracht8.c",
+              "RelativeToolTip": "Week6Opdracht8\\Opdracht8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T12:49:17.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u00DAitleg.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\UitlegLeo\\\u00DAitleg.c",
+              "RelativeDocumentMoniker": "UitlegLeo\\\u00DAitleg.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\UitlegLeo\\\u00DAitleg.c",
+              "RelativeToolTip": "UitlegLeo\\\u00DAitleg.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T12:42:04.237Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -42,54 +72,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Opdracht2.c",
-              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht2\\Opdracht2.c",
-              "RelativeDocumentMoniker": "Week6Opdracht2\\Opdracht2.c",
-              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht2\\Opdracht2.c",
-              "RelativeToolTip": "Week6Opdracht2\\Opdracht2.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T07:56:14.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Opdracht1.c",
-              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht1\\Opdracht1.c",
-              "RelativeDocumentMoniker": "Week6Opdracht1\\Opdracht1.c",
-              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht1\\Opdracht1.c",
-              "RelativeToolTip": "Week6Opdracht1\\Opdracht1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T07:53:27.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Enumvraag.c",
               "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Enumvraag\\Enumvraag.c",
               "RelativeDocumentMoniker": "Enumvraag\\Enumvraag.c",
               "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Enumvraag\\Enumvraag.c",
               "RelativeToolTip": "Enumvraag\\Enumvraag.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-14T07:12:20.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u00DAitleg.c",
-              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\UitlegLeo\\\u00DAitleg.c",
-              "RelativeDocumentMoniker": "UitlegLeo\\\u00DAitleg.c",
-              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\UitlegLeo\\\u00DAitleg.c",
-              "RelativeToolTip": "UitlegLeo\\\u00DAitleg.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Opdracht7.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht7\\Opdracht7.c",
+              "RelativeDocumentMoniker": "Week6Opdracht7\\Opdracht7.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht7\\Opdracht7.c",
+              "RelativeToolTip": "Week6Opdracht7\\Opdracht7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T06:36:17.52Z",
+              "WhenOpened": "2024-10-17T12:40:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Opdracht4\u00265\u00266.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht4\\Opdracht4\u00265\u00266.c",
+              "RelativeDocumentMoniker": "Week6Opdracht4\\Opdracht4\u00265\u00266.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\Week6\\Week6Opdracht4\\Opdracht4\u00265\u00266.c",
+              "RelativeToolTip": "Week6Opdracht4\\Opdracht4\u00265\u00266.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T12:22:49.505Z",
               "EditorCaption": ""
             }
           ]

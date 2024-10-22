@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9ED1BD-A10C-4B56-B3A1-298F3DC5B78A}|Opdracht6\\Opdracht6.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht6\\Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD9ED1BD-A10C-4B56-B3A1-298F3DC5B78A}|Opdracht6\\Opdracht6.vcxproj|solutionrelative:Opdracht6\\Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8217C-7E31-44E7-8359-938FDFDBC5EB}|Opdracht2\\Opdracht2.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht2\\Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F8217C-7E31-44E7-8359-938FDFDBC5EB}|Opdracht2\\Opdracht2.vcxproj|solutionrelative:Opdracht2\\Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39351509-8CB1-4774-A42A-1E212AAAB630}|Opdracht5\\Opdracht5.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht5\\Opdracht5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39351509-8CB1-4774-A42A-1E212AAAB630}|Opdracht5\\Opdracht5.vcxproj|solutionrelative:Opdracht5\\Opdracht5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3619BA0-9CCE-4668-97B1-535747A0E359}|Opdracht4\\Opdracht4.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht4\\Opdracht4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3619BA0-9CCE-4668-97B1-535747A0E359}|Opdracht4\\Opdracht4.vcxproj|solutionrelative:Opdracht4\\Opdracht4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA3F57D-8D1E-4F2B-8781-203002831B09}|Opdracht3\\Opdracht3.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht3\\Opdracht3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA3F57D-8D1E-4F2B-8781-203002831B09}|Opdracht3\\Opdracht3.vcxproj|solutionrelative:Opdracht3\\Opdracht3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5413E64E-908B-4844-8FDF-59D58C81CA72}|Opdracht1\\Opdracht1.vcxproj|C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht1\\Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5413E64E-908B-4844-8FDF-59D58C81CA72}|Opdracht1\\Opdracht1.vcxproj|solutionrelative:Opdracht1\\Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opdracht6.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht6\\Opdracht6.c",
+              "RelativeDocumentMoniker": "Opdracht6\\Opdracht6.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht6\\Opdracht6.c",
+              "RelativeToolTip": "Opdracht6\\Opdracht6.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T07:17:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opdracht5.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht5\\Opdracht5.c",
+              "RelativeDocumentMoniker": "Opdracht5\\Opdracht5.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht5\\Opdracht5.c",
+              "RelativeToolTip": "Opdracht5\\Opdracht5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T07:07:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opdracht4.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht4\\Opdracht4.c",
+              "RelativeDocumentMoniker": "Opdracht4\\Opdracht4.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht4\\Opdracht4.c",
+              "RelativeToolTip": "Opdracht4\\Opdracht4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T06:58:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Opdracht3.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht3\\Opdracht3.c",
+              "RelativeDocumentMoniker": "Opdracht3\\Opdracht3.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht3\\Opdracht3.c",
+              "RelativeToolTip": "Opdracht3\\Opdracht3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T06:44:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opdracht2.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht2\\Opdracht2.c",
+              "RelativeDocumentMoniker": "Opdracht2\\Opdracht2.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht2\\Opdracht2.c",
+              "RelativeToolTip": "Opdracht2\\Opdracht2.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T06:34:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Opdracht1.c",
+              "DocumentMoniker": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht1\\Opdracht1.c",
+              "RelativeDocumentMoniker": "Opdracht1\\Opdracht1.c",
+              "ToolTip": "C:\\Users\\Navan\\source\\repos\\Basisprogrameren\\BasisprogamerenToets\\Opdracht1\\Opdracht1.c",
+              "RelativeToolTip": "Opdracht1\\Opdracht1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T06:31:48.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
